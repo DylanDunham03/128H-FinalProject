@@ -2,8 +2,8 @@
 
 Group Name: CODE-STORAGE
 
-Group Members: Dylan, Aakash,
-Net Id's: dylanad2, 
+Group Members: Dylan, Aakash, Idrees
+Net Id's: dylanad2, imoha9
 
 Project Introduction:
 
